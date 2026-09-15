@@ -1,0 +1,24 @@
+.title{
+    font-weight: bold;
+    font-size:larger;
+    color: mediumturquoise;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(51, 40, 40);
+    box-shadow: 3px 5px 10px rgb(79, 241, 206);
+    text-align: center;
+    /* 3px untuk offset-x (koordinat x)
+    5px untuk koordinat y 
+    10px untuk blur */
+}
+
+p{
+    color: rgb(59, 34, 34);
+    font-style: italic;
+    /* background-color: rgba(79, 241, 206, 0.164); */
+}
+
+.section{
+    margin-bottom: 20px;
+    /* ini untuk jarak batas bawah dengan next section */
+    box-shadow: 3px 5px 10x rgb(51, 40, 40);
+}
