@@ -1,0 +1,20 @@
+.box-R{
+    background-color: #BF0A30;
+    width: fit-content;
+}
+.box-T{
+    background-color:#4fb9af;
+    width: fit-content;
+}
+.box-Y{
+    background-color:#FFFCC9;
+    width: fit-content;
+}
+.box-P{
+    background-color: #F8DADA;
+    width: fit-content;
+}
+
+.container{
+    display: flex;
+}
